@@ -1,4 +1,4 @@
 cd saara.github.io
-git add .
+git add https://github.com/SaaraAli143/Saara.github.io
 git commit -m "Initial commit"
 git push origin main
